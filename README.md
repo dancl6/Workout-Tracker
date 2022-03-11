@@ -11,7 +11,7 @@ This Workout Tracker application was designed for beginners to experts. Find exe
 * [Create React App](#CRA)
   
 ## Usage
-You can find the fully deployed application [here](https://adj-workout-tracker.herokuapp.com/).
+You can find the fully deployed application [here](https://workout-tracker-dan.herokuapp.com/).
 
 [![live-application](./client/src/assets/repository-material/screenshot.jpg)](https://workout-tracker-dan.herokuapp.com/)
 
