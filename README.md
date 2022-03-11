@@ -1,7 +1,37 @@
+# Workout Tracker ![MIT-license](./client/src/assets/repository-material/license/license-MIT-brightgreen.svg)
+
+## Description
+This Workout Tracker application was designed for beginners to experts. Find exercise walkthoughs, log your workouts, and check your historical progress using an application developed with the MERN Full Stack. Technologies used include [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/), [Apollo Server](https://www.npmjs.com/package/apollo-server), [GraphQL](https://graphql.org/), [MongoDB](https://www.mongodb.com/), [Mongoose](https://mongoosejs.com/), [FullCalendar](https://fullcalendar.io/), [React Bootstrap](https://react-bootstrap.github.io/), and [React](https://reactjs.org/), among others. This application was Bootstrapped with Create React App.
+
+## Table of Contents
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#contributing)
+* [Questions](#Questions)
+* [Create React App](#CRA)
+  
+## Usage
+You can find the fully deployed application [here](https://adj-workout-tracker.herokuapp.com/).
+
+[![live-application](./client/src/assets/repository-material/screenshot.jpg)](https://adj-workout-tracker.herokuapp.com/)
+
+## License
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+To view the full license, [click here](./client/src/assets/repository-material/license/MIT.txt).
+
+## Contributing
+Contributors for this project:
+
+* [Aaron Lisker](https://github.com/aelisker)
+* [Dan Lyons](https://github.com/dancl6)
+* [Jakob Loke](https://github.com/jakobloke)
+
+## Questions
+If you have any questions, you can reach Aaron Lisker at [alisker@protonmail.com](mailto:alisker@protonmail.com), Dan Lyons at [danielclyons@yahoo.com](mailto:danielclyons@yahoo.com), and Jakob Loke at [jakobloke14@gmail.com](mailto:jakobloke14@gmail.com).
+
+## CRA
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
