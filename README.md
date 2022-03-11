@@ -1,4 +1,4 @@
-# Workout Tracker ![MIT-license](./client/src/assets/repository-material/license/license-MIT-brightgreen.svg)
+# Workout Tracker ![MIT-license](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
 This Workout Tracker application was designed for beginners to experts. Find exercise walkthoughs, log your workouts, and check your historical progress using an application developed with the MERN Full Stack. Technologies used include [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/), [Apollo Server](https://www.npmjs.com/package/apollo-server), [GraphQL](https://graphql.org/), [MongoDB](https://www.mongodb.com/), [Mongoose](https://mongoosejs.com/), [FullCalendar](https://fullcalendar.io/), [React Bootstrap](https://react-bootstrap.github.io/), and [React](https://reactjs.org/), among others. This application was Bootstrapped with Create React App.
